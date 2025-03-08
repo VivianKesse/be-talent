@@ -1,0 +1,17 @@
+.headerContainer {
+  background-color: var(--white);
+  width: 100%;
+  padding: 1rem;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  width: 71.19px;
+  height: 14px;
+}
+
+@media screen and (min-width: 1024px) {
+  .headerContainer {
+    padding: 1.4rem 1.9rem;
+  }
+}
